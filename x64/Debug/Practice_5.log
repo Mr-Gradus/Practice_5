@@ -1,15 +1,2 @@
 ﻿  Practice_5.cpp
-D:\YandexDisk\Coding\GeekBrains\Practice_5\Practice_5.cpp(33,33): error C2662: T Pair1<T>::first(void): невозможно преобразовать указатель "this" из "const Pair1<double>" в "Pair1<double> &"
-          with
-          [
-              T=double
-          ]
-D:\YandexDisk\Coding\GeekBrains\Practice_5\Practice_5.cpp(33,24): message : В результате преобразования теряются квалификаторы
-D:\YandexDisk\Coding\GeekBrains\Practice_5\Practice_5.cpp(19,7): message : см. объявление "Pair1<double>::first"
-D:\YandexDisk\Coding\GeekBrains\Practice_5\Practice_5.cpp(33,55): error C2662: T Pair1<T>::second(void): невозможно преобразовать указатель "this" из "const Pair1<double>" в "Pair1<double> &"
-          with
-          [
-              T=double
-          ]
-D:\YandexDisk\Coding\GeekBrains\Practice_5\Practice_5.cpp(33,45): message : В результате преобразования теряются квалификаторы
-D:\YandexDisk\Coding\GeekBrains\Practice_5\Practice_5.cpp(20,7): message : см. объявление "Pair1<double>::second"
+  Practice_5.vcxproj -> D:\YandexDisk\Coding\GeekBrains\Practice_5\x64\Debug\Practice_5.exe
